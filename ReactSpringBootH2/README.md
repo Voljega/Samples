@@ -1,8 +1,8 @@
 # ReactSpringBootH2
 
-frontend: React
-backend: Sprint Boot
-DB: H2 (in memory)
+frontend: React  
+backend: Sprint Boot  
+DB: H2 (in memory)  
 
 run backend with `mvn spring-boot:run` accessible at `http://localhost:8080/`  
 start frontend in `./frontend` with `npm start` accesible at `http://localhost:3000/`  
